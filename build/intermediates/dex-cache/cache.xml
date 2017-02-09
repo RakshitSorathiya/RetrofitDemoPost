@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_eb41770dcc63be8cbf467dfbcb8e60a9e22b1937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_f6065cc9f40b16b83e96ff4520ba81141ab4173a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_117d382f73f5be88dc8d2b7441f626dfeee178a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_11e6c9f7be9affc7a0deef9cca407b10fee21978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/gson-2.7_0b292529d8da9d6b2ddb1ee55edb821eb1325f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_5b322c6276f74d7b77da2e51055bc5b389d1595b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Documents/Android_Software_Package/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2632d519eae7d96056e7afca0b92fdbdb6e447e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/okio-1.8.0_228b8384855aec798b75b0bc469a94ee5bf5151d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_f63e82a3071d8efb39c070fc6a332b3f5ffcc2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_1c8d7c9353dc1d9dcfd298368b42109de19f293d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_3cfeb56957be1a45ff12860dabb0519c3973e8f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_677c1eae62f5210c0d3db01b7e14d2fe571ba1f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_b2618b5363b657b466908bf49bca17b6e8ae840a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_903f9351378f296ee6be43850b2367ef7c3706b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.3.0/79062f27361642b38b22f50e704454e286bbb2d9/okhttp-urlconnection-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79062f27361642b38b22f50e704454e286bbb2d9">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.3.0_229b9f4dc58b39947862cec0adc4cc04bc90df67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_e169f14cb0c0e7037d774992ec956c23ef775a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_38f6c9673cb55854e436d7c9379b884af51b51fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_3aa4f77c10862a5a1f063fc47c8cd238949d0361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_273df6729c00f6d79ed86d4f773407f746a9bf4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_a29efa665ef4a85a1f903ff0b7af0aeef750c378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.0/ba14d8b7789efde5ee150eacb297b7237abca39/logging-interceptor-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.3.0_cf4a3d1f3941436c1876e0e6a12dcf8772a28a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/ln-149/Desktop/RetrofitDemoPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_8349b4a17dcd768d9d757639a9c0535d45443848.jar" />
+    </item>
+
+</items>
